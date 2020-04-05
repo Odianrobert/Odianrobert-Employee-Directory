@@ -1,6 +1,6 @@
 {
   "name": "empdirectory",
-  "homepage": "https://odianrobert.github.io/Odianrobert-Employee-Directory/",
+  "homepage": "https://odianrobert.github.io/Odianrobert-Employee-Directory/index.html", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
